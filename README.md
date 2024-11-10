@@ -1,7 +1,8 @@
 # Projekt Inżynierski - Ekran ePapier
 Projekt stanowi pracę inżynierską, której celem jest stworzenie inteligentnego ekranu typu ePapier, wyświetlającego przydatne informacje dla użytkownika, korzystając z dostępnych komponentów.
 
-> **Uwaga**: Projekt jest w fazie rozwoju i nie stanowi finalnej wersji.
+> [!NOTE]  
+> Projekt jest w fazie rozwoju i nie stanowi finalnej wersji.
 
 ## Struktura Repozytoriów
 **Projekt składa się z dwóch repozytoriów:**
