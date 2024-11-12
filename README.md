@@ -1,4 +1,4 @@
-# Projekt Inżynierski - Ekran ePapier
+# Projekt Inżynierski - Inteligenty Ekran ePapier
 
 Projekt stanowi pracę inżynierską, której celem jest stworzenie inteligentnego ekranu typu ePapier, wyświetlającego przydatne informacje dla użytkownika, korzystając z dostępnych komponentów.
 
