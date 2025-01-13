@@ -14,4 +14,4 @@ Projekt stanowi pracę inżynierską, której celem jest stworzenie inteligentne
 | Repozytorium zawiera kod napisany w Pythonie, który obsługuje wyświetlanie zawartości na ekranie ePapier. [Link do repozytorium Ekran](https://github.com/smpol/ePapier-Python) | Repozytorium zawiera serwis napisany w PHP (Symfony), który odpowiada za wygląd prezentowanej treści oraz panel sterowania serwisem. [Link do repozytorium Serwis](https://github.com/smpol/ePapier-PHP) |
 
 ![preview](/images/preview.jpeg)
-(Obrazek poglądowy, stan projektu na dzień 12 listopada 2024, w fazie rozwoju)
+(Obrazek poglądowy, stan projektu na dzień 13 stycznia 2025, w fazie rozwoju)
